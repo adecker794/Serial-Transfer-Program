@@ -1,11 +1,9 @@
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\Serial Transfer Program.exe.config
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\Serial Transfer Program.exe
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\Serial Transfer Program.pdb
-C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Security.AccessControl.dll
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Security.Permissions.dll
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Security.Principal.Windows.dll
-C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Configuration.ConfigurationManager.xml
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Security.AccessControl.xml
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Security.Permissions.xml
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\bin\Debug\System.Security.Principal.Windows.xml
@@ -13,3 +11,4 @@ C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\obj\
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\obj\Debug\Serial Transfer Program.csproj.CopyComplete
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\obj\Debug\Serial Transfer Program.exe
 C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\obj\Debug\Serial Transfer Program.pdb
+C:\Users\i-rob\source\repos\Serial Transfer Program\Serial Transfer Program\obj\Debug\Serial Transfer Program.csprojAssemblyReference.cache
